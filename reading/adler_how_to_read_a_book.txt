@@ -1,0 +1,12 @@
+Mortimer J. Adler and Charles Van Doren: How to read a book (Summary)
+
+source: https://fs.blog/how-to-read-a-book/
+date: 2024/11/23
+
+- 4 level of reading: elementary -> inspectional -> analytical -> syntopical
+- why you are reading should match how you are reading
+- elementary: literal meanings of words and sentences
+- inspectional: (1) systematic skimming: skim to get structure and main ideas (2) superficial reading: read the entire thing without pausing
+- analytical: classify -> abstract -> enumerate major parts and relations -> define the problem
+- syntopical: related works -> translate and synthesize -> formulate your questions -> discuss with authors
+- note-taking: highlight, number points in an argument, cross-reference related ideas with page numbers, formuate your questions and write the answers

@@ -1,0 +1,9 @@
+Stephen Wolfram: DO NOT Study Computer Science, College, and Elon Musk | The UIUC Talkshow #29
+
+source: https://www.youtube.com/watch?v=cShewypo7PY
+date: 2024/11/15
+
+- More things will be automated over time, so it might not be useful to learn low-level programming languages like C. Assembly used to be the C today.
+- College students should learn diverse fields and talk to professors.
+- Anything deep enough is interesting, but modern education is too industrial and prevent students from going deep enough.
+- It might be easier to work on foundational problems than SOTA because modern tools may reveal novel approaches that were not possible N years ago.

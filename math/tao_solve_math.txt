@@ -1,0 +1,12 @@
+Terence Tao: Solving Mathematical Problems
+
+source: https://raktimchatterjee.wordpress.com/wp-content/uploads/2015/09/solving-mathematical-problems-terence-tao.pdf
+date: 2024/11/17
+
+1. understand the data
+2. understand the objective
+3. select good notation (e.g. symmetrical) and write down the relationships
+4. write down important details (inputs, outputs, equations) -> draw a diagram
+5a. modify the problem slightly: solve a simplified version and try to generalize it
+5b. modify the problem significantly: negate the objective, swap data with the objective, etc.
+6. prove the results
